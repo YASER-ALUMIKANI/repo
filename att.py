@@ -7,7 +7,7 @@ Created on Mon Apr  7 09:15:54 2025
 
 from datetime import datetime
 
-print(" Welcome to the Package Delivery Logger")
+print(" Welcome to the Package Delivery Logger") # print function
 print("Enter the name of the person receiving the package.")
 print("Type 'done' when deliveries are complete.")
 print("Type 'remove' to delete a wrong entry.\n")
